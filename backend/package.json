@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend k projektu",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuIoT/EmergencyButton.git"
+  },
+  "keywords": [
+    "IoT"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uuIoT/EmergencyButton/issues"
+  },
+  "homepage": "https://github.com/uuIoT/EmergencyButton#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
